@@ -23,7 +23,7 @@
   C:\cuda\bin
   
 3. Donwload Anaconda Python 3.x version
-   (나는 3.8을 다운로드 후, downgrade 해줌  
+   (나는 3.8을 다운로드 후, downgrade 해줌)
 ~~~
 conda install python=3.6
 ~~~
