@@ -1,5 +1,5 @@
 # Tensorflow_image_training
-
+참고: https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10/blob/master/translate/README_Korean.md#%EC%86%8C%EA%B0%9C
 > Version  
 
   < tensorFlow-GPI 1.5에는 CUDA 9.0, cuDNN 7.0이 적합 >
