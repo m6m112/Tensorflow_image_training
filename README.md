@@ -27,8 +27,15 @@
 ~~~
 conda install python=3.6
 ~~~
-4. Download Anaconda tensorflow (python 버전 맞춰서 진행) 
+  환경변수 추가 (자신의 경로에 맞게)  
+  (C:\Users\PC)\anaconda3
+  (C:\Users\PC)\anaconda3\Scripts
+  (C:\Users\PC)\anaconda3\Library
+  
+4. Download tensorflow-GPU 1.5 (python 버전 맞춰서 진행) 
 ~~~
 conda create -n tensorflow python=3.6
+activate tensorflow
+pip install --ignore-installed --upgrade tensorflow-gpu==1.5
 ~~~
-  
+
