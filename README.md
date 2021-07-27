@@ -27,4 +27,8 @@
 ~~~
 conda install python=3.6
 ~~~
+4. Download Anaconda tensorflow (python 버전 맞춰서 진행) 
+~~~
+conda create -n tensorflow python=3.6
+~~~
   
